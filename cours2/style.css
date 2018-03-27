@@ -1,0 +1,32 @@
+/* style.css */
+body{
+  background: #fff;
+  color: pink;
+  font-size: 35px;
+  font-family: 'Open Sans', sans-serif;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+
+#title {
+font-size: 50px; 
+
+}
+
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
