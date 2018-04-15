@@ -3,8 +3,6 @@ $( document ).ready(function() {
 function welcome() {
    $("#welcome").html('<h4>Bienvenue, <br> soyez pret à renouveler de nouveaux défis !</h4>');
 };
-
-welcome();
   
 function getUsername() {
     //affiche une boite de dialogue 
@@ -23,7 +21,7 @@ welcome();
 
 function loadChallenges() {
   $.ajax(
-        {url : 'https://s3.eu-central-1.amazonaws.com/spintransfer/challenge.json',
+        {url : 'https://api.myjson.com/bins/8tt73',
         type: 'GET',
         dataType: 'json'} 
   )

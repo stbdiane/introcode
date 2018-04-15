@@ -1,0 +1,46 @@
+[
+  {
+    "id":1,
+    "nom":"Le Challenge Dame Tu Cosita ",
+    "category":"musique",
+    "description" :"Sauras-tu danser comme lui ?",
+    "youtube" : "https://www.youtube.com/embed/XSA78xwOGiE"
+  },
+   {
+    "id":2,
+    "nom":"Le Glitter Tongue",
+    "category":"nourriture",
+    "description" :"Tremper sa langue dans un pot de paillettes",
+    "youtube" :"https://www.youtube.com/embed/zfW6XcxrFq4"    
+
+  },
+   {
+    "id":3,
+    "nom":"Le fameux Mannequin Challenge",
+    "category":"selfie",
+    "description" :"Ne bougez plus...",
+    "youtube" :"https://www.youtube.com/embed/qFaUhLkdRPg"
+
+  },{
+    "id":4,
+    "nom":"Just Do it ",
+    "category":"superhero",
+    "description" :"Filme-toi devant un fond vert, tu pourras y incruster n'importe quoi derrière !",
+    "youtube" :"https://www.youtube.com/embed/5-sfG8BV8wU"
+  }
+  ,{
+    "id":5,
+    "nom":"Le SUMO Challenge",
+    "category":"nourriture",
+    "description" :"Combattez vos amis sur le ring en mode SUMO. Que le meilleur gagne...",
+    "youtube" :"https://www.youtube.com/embed/pfZ8_64fB_8"
+  }
+  ,{
+    "id":4,
+    "nom":"Boyfriend Does Makeup Challenge",
+    "category":"makeup",
+    "description" :"Laissez votre petit ami vous maquiller !",
+    "youtube" :"https://www.youtube.com/embed/J66aZu8TTVY"
+  }
+]
+
